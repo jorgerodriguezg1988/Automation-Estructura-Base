@@ -9,7 +9,7 @@ Automation-Estructura Base
 ## Paso 2: Clonarlo en la primera ventana de Visual Studio Code y ubicarlo en la ruta donde lo deseamos. Hasta aqui tendremos solo el Readme.
 
 
-## Fase 2:
+# Fase 2:
 
 ## Paso 1: Clonar el presente repositorio en la segunda ventana de Visual Studio Code y ubicarlo en otra ruta diferente a la de nuestro nuevo proyecto.
 ## Paso 2: Copiar todo el contenido del presente repositorio (Paso anterior) menos el Readme y la carpeta .git.
