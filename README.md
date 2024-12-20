@@ -18,6 +18,8 @@ Automation-Estructura Base
 ## Paso 5: Limpiar dependencias con el comando 
                   powershell: Remove-Item -Recurse -Force node_modules
                   gitbash: rm -rf node_modules
+## Paso 6: Cypress libera versiones con mucha frecuencia, por lo cual se sugiere instalar la ultima version de Cypress con el comando:
+                  npm install cypress@latest
 ## Paso 6: Instalar dependencias con el comando: npm install
 ## Paso 7: Cambiar la URL base en el archivo: cypress.config.js
 ## Paso 8: Guardar todos los cambios (Save All).
